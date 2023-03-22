@@ -21,8 +21,8 @@ cusdis:
 
 user:
   name: Dongmin Lee
-  pic: /assets/img/ImSorry.jpg
-  picAlt: "Just Cat"
+  pic: /assets/img/ImOkay.jpg
+  picAlt: "Im Okay!"
   job: Student
   aboutme: # true # comment this out if you don't need the 'about' page.
 
